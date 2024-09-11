@@ -1,0 +1,32 @@
+{
+  "id": "calibres",
+  "title": "Calibres",
+  "description": "Ajoute de nouveaux calibres de cartouches au système Degenesis.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Votre Nom",
+      "url": "https://votre-site-web.com"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "degenesis",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "calibres.js"
+  ],
+  "url": "https://votre-url-de-téléchargement.com",
+  "download": "https://votre-url-de-téléchargement.com",
+  "manifest": "modules/calibres/module.json",
+  "license": "LICENSE"
+}
