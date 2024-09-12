@@ -1,5 +1,15 @@
 ﻿# Degenesis: Rebirth - Systeme Usage for Foundry VTT
-This module contains a journal of Degenesis: Rebirth Systeme Usage for Foundry VTT
+Ce module permet d'ajouter les calibres suivant:
+
+  "Cartouche SP 4016 TH",
+  "Cartouche Aérosol d’EX/EG-1",
+  "Cartouche Bande noire",
+  "Cartouche Gaz chloré",
+  "Cartouche Irritant",
+  "Cartouche Marqueur phéromonal",
+  "Cartouche Poussière de feu",
+  "Cartouche au Fréon",
+
 
 ## INSTALLATION
 
